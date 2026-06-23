@@ -128,5 +128,4 @@ resume-analyzer/
 └── start.bat                 # Fast startup helper script
 ```
 
----
 
